@@ -6,6 +6,7 @@ const notes = [
   "Promoción por Pull Request",
   "Despliegue de staging en GitHub Pages",
   "Cambio visible listo para promoción",
+  /*  */
 ];
 export default function App() {
   return (
